@@ -13,6 +13,18 @@
  },
  {
   "pos": 2,
+  "ploeg": "Sportkring Roeselare",
+  "m": 10,
+  "w": 6,
+  "v": 1,
+  "g": 3,
+  "dv": 18,
+  "dt": 5,
+  "ds": 13,
+  "ptn": 21
+ },
+ {
+  "pos": 3,
   "ploeg": "FC Mandel United Izegem",
   "m": 9,
   "w": 6,
@@ -22,18 +34,6 @@
   "dt": 6,
   "ds": 9,
   "ptn": 19
- },
- {
-  "pos": 3,
-  "ploeg": "Sportkring Roeselare",
-  "m": 9,
-  "w": 5,
-  "v": 1,
-  "g": 3,
-  "dv": 14,
-  "dt": 5,
-  "ds": 9,
-  "ptn": 18
  },
  {
   "pos": 4,
@@ -49,18 +49,30 @@
  },
  {
   "pos": 5,
-  "ploeg": "KFC Merelbeke",
-  "m": 9,
+  "ploeg": "Thes Sport Tessenderlo A",
+  "m": 10,
   "w": 4,
   "v": 2,
-  "g": 3,
-  "dv": 14,
-  "dt": 8,
-  "ds": 6,
-  "ptn": 15
+  "g": 4,
+  "dv": 16,
+  "dt": 11,
+  "ds": 5,
+  "ptn": 16
  },
  {
   "pos": 6,
+  "ploeg": "KFC Merelbeke",
+  "m": 10,
+  "w": 4,
+  "v": 3,
+  "g": 3,
+  "dv": 14,
+  "dt": 12,
+  "ds": 2,
+  "ptn": 15
+ },
+ {
+  "pos": 7,
   "ploeg": "KSK Heist A",
   "m": 9,
   "w": 4,
@@ -72,7 +84,7 @@
   "ptn": 14
  },
  {
-  "pos": 7,
+  "pos": 8,
   "ploeg": "Hoogstraten VV",
   "m": 9,
   "w": 3,
@@ -81,18 +93,6 @@
   "dv": 23,
   "dt": 16,
   "ds": 7,
-  "ptn": 13
- },
- {
-  "pos": 7,
-  "ploeg": "Thes Sport Tessenderlo A",
-  "m": 9,
-  "w": 3,
-  "v": 2,
-  "g": 4,
-  "dv": 15,
-  "dt": 11,
-  "ds": 4,
   "ptn": 13
  },
  {
@@ -133,18 +133,6 @@
  },
  {
   "pos": 12,
-  "ploeg": "KVK.Tienen",
-  "m": 9,
-  "w": 2,
-  "v": 4,
-  "g": 3,
-  "dv": 14,
-  "dt": 16,
-  "ds": -2,
-  "ptn": 9
- },
- {
-  "pos": 12,
   "ploeg": "Koninklijke Lyra-Lierse",
   "m": 9,
   "w": 2,
@@ -152,6 +140,18 @@
   "g": 3,
   "dv": 16,
   "dt": 19,
+  "ds": -3,
+  "ptn": 9
+ },
+ {
+  "pos": 12,
+  "ploeg": "KVK.Tienen",
+  "m": 10,
+  "w": 2,
+  "v": 5,
+  "g": 3,
+  "dv": 14,
+  "dt": 17,
   "ds": -3,
   "ptn": 9
  },
