@@ -1,18 +1,30 @@
 [
  {
   "pos": 1,
-  "ploeg": "K.F.C. Houtvenne A",
-  "m": 9,
+  "ploeg": "FC Mandel United Izegem",
+  "m": 10,
   "w": 7,
-  "v": 1,
+  "v": 2,
   "g": 1,
-  "dv": 21,
+  "dv": 19,
   "dt": 9,
-  "ds": 12,
+  "ds": 10,
   "ptn": 22
  },
  {
-  "pos": 2,
+  "pos": 1,
+  "ploeg": "K.F.C. Houtvenne A",
+  "m": 10,
+  "w": 7,
+  "v": 2,
+  "g": 1,
+  "dv": 21,
+  "dt": 13,
+  "ds": 8,
+  "ptn": 22
+ },
+ {
+  "pos": 3,
   "ploeg": "Sportkring Roeselare",
   "m": 10,
   "w": 6,
@@ -24,16 +36,16 @@
   "ptn": 21
  },
  {
-  "pos": 3,
-  "ploeg": "FC Mandel United Izegem",
-  "m": 9,
-  "w": 6,
-  "v": 2,
-  "g": 1,
-  "dv": 15,
-  "dt": 6,
+  "pos": 4,
+  "ploeg": "KSK Heist A",
+  "m": 10,
+  "w": 5,
+  "v": 3,
+  "g": 2,
+  "dv": 22,
+  "dt": 13,
   "ds": 9,
-  "ptn": 19
+  "ptn": 17
  },
  {
   "pos": 4,
@@ -48,7 +60,7 @@
   "ptn": 17
  },
  {
-  "pos": 5,
+  "pos": 6,
   "ploeg": "Thes Sport Tessenderlo A",
   "m": 10,
   "w": 4,
@@ -60,7 +72,7 @@
   "ptn": 16
  },
  {
-  "pos": 6,
+  "pos": 7,
   "ploeg": "KFC Merelbeke",
   "m": 10,
   "w": 4,
@@ -72,52 +84,40 @@
   "ptn": 15
  },
  {
-  "pos": 7,
-  "ploeg": "KSK Heist A",
-  "m": 9,
+  "pos": 8,
+  "ploeg": "Belisia Bilzen SV A",
+  "m": 10,
   "w": 4,
-  "v": 3,
+  "v": 4,
   "g": 2,
-  "dv": 18,
-  "dt": 13,
-  "ds": 5,
+  "dv": 17,
+  "dt": 18,
+  "ds": -1,
   "ptn": 14
  },
  {
-  "pos": 8,
+  "pos": 9,
   "ploeg": "Hoogstraten VV",
-  "m": 9,
+  "m": 10,
   "w": 3,
-  "v": 2,
+  "v": 3,
   "g": 4,
   "dv": 23,
-  "dt": 16,
-  "ds": 7,
+  "dt": 17,
+  "ds": 6,
   "ptn": 13
  },
  {
-  "pos": 9,
-  "ploeg": "KFC Dessel Sp. A",
-  "m": 9,
-  "w": 3,
-  "v": 3,
-  "g": 3,
-  "dv": 18,
-  "dt": 19,
-  "ds": -1,
-  "ptn": 12
- },
- {
   "pos": 10,
-  "ploeg": "Belisia Bilzen SV A",
-  "m": 9,
+  "ploeg": "KFC Dessel Sp. A",
+  "m": 10,
   "w": 3,
   "v": 4,
-  "g": 2,
-  "dv": 16,
-  "dt": 18,
+  "g": 3,
+  "dv": 21,
+  "dt": 23,
   "ds": -2,
-  "ptn": 11
+  "ptn": 12
  },
  {
   "pos": 11,
@@ -133,18 +133,6 @@
  },
  {
   "pos": 12,
-  "ploeg": "Koninklijke Lyra-Lierse",
-  "m": 9,
-  "w": 2,
-  "v": 4,
-  "g": 3,
-  "dv": 16,
-  "dt": 19,
-  "ds": -3,
-  "ptn": 9
- },
- {
-  "pos": 12,
   "ploeg": "KVK.Tienen",
   "m": 10,
   "w": 2,
@@ -153,6 +141,18 @@
   "dv": 14,
   "dt": 17,
   "ds": -3,
+  "ptn": 9
+ },
+ {
+  "pos": 12,
+  "ploeg": "Koninklijke Lyra-Lierse",
+  "m": 10,
+  "w": 2,
+  "v": 5,
+  "g": 3,
+  "dv": 17,
+  "dt": 21,
+  "ds": -4,
   "ptn": 9
  },
  {
@@ -169,6 +169,18 @@
  },
  {
   "pos": 15,
+  "ploeg": "KVV Zelzate",
+  "m": 10,
+  "w": 1,
+  "v": 6,
+  "g": 3,
+  "dv": 10,
+  "dt": 25,
+  "ds": -15,
+  "ptn": 6
+ },
+ {
+  "pos": 16,
   "ploeg": "Racing Club Harelbeke",
   "m": 9,
   "w": 1,
@@ -178,17 +190,5 @@
   "dt": 26,
   "ds": -20,
   "ptn": 4
- },
- {
-  "pos": 16,
-  "ploeg": "KVV Zelzate",
-  "m": 9,
-  "w": 0,
-  "v": 6,
-  "g": 3,
-  "dv": 8,
-  "dt": 24,
-  "ds": -16,
-  "ptn": 3
  }
 ]
