@@ -48,19 +48,31 @@
   "ptn": 18
  },
  {
-  "pos": 5,
-  "ploeg": "KSK Heist A",
-  "m": 10,
+  "pos": 4,
+  "ploeg": "KFC Merelbeke",
+  "m": 11,
   "w": 5,
   "v": 3,
-  "g": 2,
-  "dv": 22,
+  "g": 3,
+  "dv": 16,
   "dt": 13,
-  "ds": 9,
-  "ptn": 17
+  "ds": 3,
+  "ptn": 18
  },
  {
   "pos": 6,
+  "ploeg": "KSK Heist A",
+  "m": 11,
+  "w": 5,
+  "v": 4,
+  "g": 2,
+  "dv": 23,
+  "dt": 15,
+  "ds": 8,
+  "ptn": 17
+ },
+ {
+  "pos": 7,
   "ploeg": "Thes Sport Tessenderlo A",
   "m": 10,
   "w": 4,
@@ -70,18 +82,6 @@
   "dt": 11,
   "ds": 5,
   "ptn": 16
- },
- {
-  "pos": 7,
-  "ploeg": "KFC Merelbeke",
-  "m": 10,
-  "w": 4,
-  "v": 3,
-  "g": 3,
-  "dv": 14,
-  "dt": 12,
-  "ds": 2,
-  "ptn": 15
  },
  {
   "pos": 8,
