@@ -110,17 +110,29 @@
  {
   "pos": 10,
   "ploeg": "Hoogstraten VV",
-  "m": 10,
+  "m": 11,
   "w": 3,
-  "v": 3,
+  "v": 4,
   "g": 4,
-  "dv": 23,
-  "dt": 17,
-  "ds": 6,
+  "dv": 24,
+  "dt": 20,
+  "ds": 4,
   "ptn": 13
  },
  {
   "pos": 11,
+  "ploeg": "KVK.Tienen",
+  "m": 11,
+  "w": 3,
+  "v": 5,
+  "g": 3,
+  "dv": 17,
+  "dt": 18,
+  "ds": -1,
+  "ptn": 12
+ },
+ {
+  "pos": 12,
   "ploeg": "R. Knokke FC",
   "m": 11,
   "w": 3,
@@ -132,19 +144,7 @@
   "ptn": 10
  },
  {
-  "pos": 12,
-  "ploeg": "KVK.Tienen",
-  "m": 10,
-  "w": 2,
-  "v": 5,
-  "g": 3,
-  "dv": 14,
-  "dt": 17,
-  "ds": -3,
-  "ptn": 9
- },
- {
-  "pos": 12,
+  "pos": 13,
   "ploeg": "Koninklijke Lyra-Lierse",
   "m": 11,
   "w": 2,
@@ -156,7 +156,7 @@
   "ptn": 9
  },
  {
-  "pos": 12,
+  "pos": 13,
   "ploeg": "Cercle Brugge K.S.V. B",
   "m": 11,
   "w": 2,
@@ -168,27 +168,27 @@
   "ptn": 9
  },
  {
-  "pos": 15,
-  "ploeg": "Racing Club Harelbeke",
-  "m": 10,
+  "pos": 13,
+  "ploeg": "KVV Zelzate",
+  "m": 11,
   "w": 2,
-  "v": 7,
-  "g": 1,
-  "dv": 8,
+  "v": 6,
+  "g": 3,
+  "dv": 14,
   "dt": 26,
-  "ds": -18,
-  "ptn": 7
+  "ds": -12,
+  "ptn": 9
  },
  {
   "pos": 16,
-  "ploeg": "KVV Zelzate",
-  "m": 10,
-  "w": 1,
-  "v": 6,
-  "g": 3,
-  "dv": 10,
-  "dt": 25,
-  "ds": -15,
-  "ptn": 6
+  "ploeg": "Racing Club Harelbeke",
+  "m": 11,
+  "w": 2,
+  "v": 8,
+  "g": 1,
+  "dv": 9,
+  "dt": 30,
+  "ds": -21,
+  "ptn": 7
  }
 ]
