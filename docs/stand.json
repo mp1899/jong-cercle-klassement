@@ -2,13 +2,13 @@
  {
   "pos": 1,
   "ploeg": "FC Mandel United Izegem",
-  "m": 11,
+  "m": 12,
   "w": 8,
-  "v": 2,
+  "v": 3,
   "g": 1,
-  "dv": 22,
-  "dt": 10,
-  "ds": 12,
+  "dv": 23,
+  "dt": 12,
+  "ds": 11,
   "ptn": 25
  },
  {
@@ -36,19 +36,19 @@
   "ptn": 22
  },
  {
-  "pos": 4,
+  "pos": 3,
   "ploeg": "Thes Sport Tessenderlo A",
-  "m": 11,
-  "w": 5,
+  "m": 12,
+  "w": 6,
   "v": 2,
   "g": 4,
-  "dv": 18,
-  "dt": 12,
-  "ds": 6,
-  "ptn": 19
+  "dv": 20,
+  "dt": 13,
+  "ds": 7,
+  "ptn": 22
  },
  {
-  "pos": 4,
+  "pos": 5,
   "ploeg": "Oud-Heverlee Leuven B",
   "m": 11,
   "w": 5,
@@ -72,19 +72,31 @@
   "ptn": 18
  },
  {
-  "pos": 7,
-  "ploeg": "KSK Heist A",
-  "m": 11,
+  "pos": 6,
+  "ploeg": "KFC Dessel Sp. A",
+  "m": 12,
   "w": 5,
   "v": 4,
+  "g": 3,
+  "dv": 24,
+  "dt": 24,
+  "ds": 0,
+  "ptn": 18
+ },
+ {
+  "pos": 8,
+  "ploeg": "KSK Heist A",
+  "m": 12,
+  "w": 5,
+  "v": 5,
   "g": 2,
-  "dv": 23,
-  "dt": 15,
-  "ds": 8,
+  "dv": 24,
+  "dt": 17,
+  "ds": 7,
   "ptn": 17
  },
  {
-  "pos": 7,
+  "pos": 8,
   "ploeg": "Belisia Bilzen SV A",
   "m": 11,
   "w": 5,
@@ -96,28 +108,16 @@
   "ptn": 17
  },
  {
-  "pos": 9,
-  "ploeg": "KFC Dessel Sp. A",
-  "m": 11,
-  "w": 4,
-  "v": 4,
-  "g": 3,
-  "dv": 22,
-  "dt": 23,
-  "ds": -1,
-  "ptn": 15
- },
- {
   "pos": 10,
   "ploeg": "Hoogstraten VV",
-  "m": 11,
-  "w": 3,
+  "m": 12,
+  "w": 4,
   "v": 4,
   "g": 4,
-  "dv": 24,
-  "dt": 20,
-  "ds": 4,
-  "ptn": 13
+  "dv": 26,
+  "dt": 21,
+  "ds": 5,
+  "ptn": 16
  },
  {
   "pos": 11,
@@ -146,13 +146,13 @@
  {
   "pos": 13,
   "ploeg": "Koninklijke Lyra-Lierse",
-  "m": 11,
+  "m": 12,
   "w": 2,
-  "v": 6,
+  "v": 7,
   "g": 3,
-  "dv": 17,
-  "dt": 25,
-  "ds": -8,
+  "dv": 18,
+  "dt": 27,
+  "ds": -9,
   "ptn": 9
  },
  {
