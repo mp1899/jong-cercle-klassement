@@ -37,18 +37,6 @@
  },
  {
   "pos": 4,
-  "ploeg": "Thes Sport Tessenderlo A",
-  "m": 12,
-  "w": 6,
-  "v": 2,
-  "g": 4,
-  "dv": 20,
-  "dt": 13,
-  "ds": 7,
-  "ptn": 22
- },
- {
-  "pos": 4,
   "ploeg": "Oud-Heverlee Leuven B",
   "m": 12,
   "w": 6,
@@ -56,6 +44,18 @@
   "g": 4,
   "dv": 25,
   "dt": 19,
+  "ds": 6,
+  "ptn": 22
+ },
+ {
+  "pos": 4,
+  "ploeg": "Thes Sport Tessenderlo A",
+  "m": 13,
+  "w": 6,
+  "v": 3,
+  "g": 4,
+  "dv": 21,
+  "dt": 15,
   "ds": 6,
   "ptn": 22
  },
@@ -73,6 +73,18 @@
  },
  {
   "pos": 7,
+  "ploeg": "Hoogstraten VV",
+  "m": 13,
+  "w": 5,
+  "v": 4,
+  "g": 4,
+  "dv": 28,
+  "dt": 22,
+  "ds": 6,
+  "ptn": 19
+ },
+ {
+  "pos": 8,
   "ploeg": "KFC Merelbeke",
   "m": 12,
   "w": 5,
@@ -84,7 +96,7 @@
   "ptn": 18
  },
  {
-  "pos": 7,
+  "pos": 8,
   "ploeg": "KFC Dessel Sp. A",
   "m": 12,
   "w": 5,
@@ -96,7 +108,7 @@
   "ptn": 18
  },
  {
-  "pos": 9,
+  "pos": 10,
   "ploeg": "KSK Heist A",
   "m": 12,
   "w": 5,
@@ -106,18 +118,6 @@
   "dt": 17,
   "ds": 7,
   "ptn": 17
- },
- {
-  "pos": 10,
-  "ploeg": "Hoogstraten VV",
-  "m": 12,
-  "w": 4,
-  "v": 4,
-  "g": 4,
-  "dv": 26,
-  "dt": 21,
-  "ds": 5,
-  "ptn": 16
  },
  {
   "pos": 11,
