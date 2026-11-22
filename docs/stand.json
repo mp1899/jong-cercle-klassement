@@ -2,37 +2,37 @@
  {
   "pos": 1,
   "ploeg": "FC Mandel United Izegem",
-  "m": 12,
-  "w": 8,
+  "m": 13,
+  "w": 9,
   "v": 3,
   "g": 1,
-  "dv": 23,
+  "dv": 25,
   "dt": 12,
-  "ds": 11,
-  "ptn": 25
+  "ds": 13,
+  "ptn": 28
  },
  {
   "pos": 2,
   "ploeg": "Sportkring Roeselare",
-  "m": 12,
-  "w": 7,
+  "m": 13,
+  "w": 8,
   "v": 1,
   "g": 4,
-  "dv": 21,
+  "dv": 24,
   "dt": 5,
-  "ds": 16,
-  "ptn": 25
+  "ds": 19,
+  "ptn": 28
  },
  {
   "pos": 3,
   "ploeg": "K.F.C. Houtvenne A",
-  "m": 12,
+  "m": 13,
   "w": 7,
-  "v": 3,
+  "v": 4,
   "g": 2,
   "dv": 23,
-  "dt": 16,
-  "ds": 7,
+  "dt": 19,
+  "ds": 4,
   "ptn": 23
  },
  {
@@ -84,7 +84,31 @@
   "ptn": 19
  },
  {
-  "pos": 8,
+  "pos": 7,
+  "ploeg": "KFC Dessel Sp. A",
+  "m": 13,
+  "w": 5,
+  "v": 4,
+  "g": 4,
+  "dv": 25,
+  "dt": 25,
+  "ds": 0,
+  "ptn": 19
+ },
+ {
+  "pos": 9,
+  "ploeg": "KSK Heist A",
+  "m": 13,
+  "w": 5,
+  "v": 5,
+  "g": 3,
+  "dv": 25,
+  "dt": 18,
+  "ds": 7,
+  "ptn": 18
+ },
+ {
+  "pos": 9,
   "ploeg": "KFC Merelbeke",
   "m": 12,
   "w": 5,
@@ -96,39 +120,15 @@
   "ptn": 18
  },
  {
-  "pos": 8,
-  "ploeg": "KFC Dessel Sp. A",
-  "m": 12,
-  "w": 5,
-  "v": 4,
-  "g": 3,
-  "dv": 24,
-  "dt": 24,
-  "ds": 0,
-  "ptn": 18
- },
- {
-  "pos": 10,
-  "ploeg": "KSK Heist A",
-  "m": 12,
-  "w": 5,
-  "v": 5,
-  "g": 2,
-  "dv": 24,
-  "dt": 17,
-  "ds": 7,
-  "ptn": 17
- },
- {
   "pos": 11,
   "ploeg": "R. Knokke FC",
-  "m": 12,
+  "m": 13,
   "w": 4,
-  "v": 7,
+  "v": 8,
   "g": 1,
   "dv": 14,
-  "dt": 20,
-  "ds": -6,
+  "dt": 22,
+  "ds": -8,
   "ptn": 13
  },
  {
